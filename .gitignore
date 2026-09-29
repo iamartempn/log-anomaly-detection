@@ -3,10 +3,10 @@ data/
 
 # личные файлы, в командный репозиторий не идут
 materials/
-plan_proekta.xlsx
 
 # окружения и служебное
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+/План проекта.xlsx
