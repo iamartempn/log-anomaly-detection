@@ -47,14 +47,14 @@ from its logs and flags sessions that do not look like it.
 
 ## Checkpoint plan
 
-Deadlines follow the programme's checkpoint schedule for 2026/27. The CP1
+Deadlines follow the programme's checkpoint schedule for 2026/27. A detailed work plan for each stage (in Russian) is in [PLAN.md](PLAN.md). The CP1
 deadline is final; the others are announced as tentative.
 
 | Stage | Deadline | Content | Status |
 | --- | --- | --- | :---: |
 | **CP1** | 06.10.2026 | meeting the supervisor, final topic, year plan, repository | ✅ |
 | **CP2** | 27.10.2026 | exploratory analysis of HDFS_v1 (loghub): log parsing, session assembly, features, distributions and relationships, visualisation, conclusions | ⏳ |
-| **CP3** | 27.11.2026 | first ML models: choice of metric; baselines — a rule and PCA; Isolation Forest, next-event model on n-grams; logistic regression as an upper bound; hyperparameter and threshold tuning for recall | ⏳ |
+| **CP3** | 27.11.2026 | first ML models: choice of metric; baselines — a rule and PCA; Isolation Forest, clustering, a time-series approach, next-event model on n-grams; supervised learning on labels is not a priority; hyperparameter and threshold tuning for recall | ⏳ |
 | **CP4** | 15.12.2026 | ML service on FastAPI: input — log lines of a session, output — a score and a decision; also counts as homework for the "Development Tools" course | ⏳ |
 | **Pre-defence** | 10–15.01.2027 | talk on the semester's work and the plan for the second semester | ⏳ |
 | **CP5** | 15.03.2027 | model improvement: windows instead of sessions, time features, data cleaning and extension — a second dataset (BGL or HDFS_v3), possibly our own logs with injected anomalies | ⏳ |
