@@ -7,7 +7,22 @@ materials/
 # окружения и служебное
 .venv/
 __pycache__/
+*.py[cod]
 .ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.uv-cache/
 .DS_Store
 /План проекта.xlsx
 /.idea/
+
+# результаты сборки Python
+/build/
+/dist/
+*.egg-info/
+
+# локальные настройки окружения
+.env
+.env.*
+!.env.example
