@@ -53,7 +53,7 @@ updated by the programme on 27.10.2026: CP2 moved to 10.11.2026, deadlines from 
 | Stage | Deadline | Content | Status |
 | --- | --- | --- | :---: |
 | **CP1** | 06.10.2026 | meeting the supervisor, final topic, year plan, repository | ✅ |
-| **CP2** | 10.11.2026 | exploratory analysis of HDFS_v1 (loghub): log parsing, session assembly, features, distributions and relationships, visualisation, conclusions | ⏳ |
+| **CP2** | 10.11.2026 | exploratory analysis of HDFS_v1 (loghub): log parsing, session assembly, features, distributions and relationships, visualisation, conclusions; [EDA.ipynb](EDA.ipynb), [practical_value.pdf](practical_value.pdf) (in Russian) | ✅ |
 | **CP3** | 06.12.2026 | first ML models: choice of metric; baselines — a rule and PCA; Isolation Forest, clustering, a time-series approach, next-event model on n-grams; supervised learning on labels is not a priority; hyperparameter and threshold tuning for recall | ⏳ |
 | **CP4** | 17.12.2026 | ML service on FastAPI: input — log lines of a session, output — a score and a decision; also counts as homework for the "Development Tools" course | ⏳ |
 | **Pre-defence** | 11–15.01.2027 | talk on the semester's work and the plan for the second semester | ⏳ |
